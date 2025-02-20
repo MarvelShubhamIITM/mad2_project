@@ -1,0 +1,3 @@
+id,service_id,customer_id,professional_id,request_date,completion_date,request_status,rating,remarks
+1,1,1,1,2024-11-29T14:29:28.710630,2024-11-29T14:32:34.459128,Closed,3,decent
+2,2,1,2,2024-12-02T03:18:26.388584,,Accepted,,
